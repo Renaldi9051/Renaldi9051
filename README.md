@@ -6,7 +6,7 @@
   <img src="banner.gif" width="400" alt="banner" />
 </p>
 
-![visitors](https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=visitors&color=0e75b6&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=Renaldi9051&label=visitors&color=0e75b6&style=flat)
 [![email](https://img.shields.io/badge/email-renaldiraru%40gmail.com-black?style=flat&logo=gmail&labelColor=555)](mailto:renaldiraru@gmail.com)
 
 ---
